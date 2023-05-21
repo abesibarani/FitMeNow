@@ -1,2 +1,2 @@
-# FitMeNow-
+# FitMeNow
 Capstone Project Dicoding
